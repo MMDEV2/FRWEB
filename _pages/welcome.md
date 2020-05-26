@@ -37,11 +37,11 @@ Repairs on most phones iPhones, iPads, Samsung Galaxy smartphones, and most andr
 					<p>Blah, blah, blah</p>
 												<a href="">Javascript?</a>
 					Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. At facer theophrastus eum, has nulla bonorum vituperata at. Eos utroque consequuntur an, case solum his ei.
-												<a href="">Can anyone use the app?</a>
+												<a href="">React</a>
 					Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. At facer theophrastus eum, has nulla bonorum vituperata at. Eos utroque consequuntur an, case solum his ei.
-												<a href="">How did the idea come about?</a>
+												<a href="">HTML & CSS</a>
 					Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. At facer theophrastus eum, has nulla bonorum vituperata at. Eos utroque consequuntur an, case solum his ei.
-												<a href="">Are you hiring?</a>
+												<a href="">Ecommerce</a>
 					Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. At facer theophrastus eum, has nulla bonorum vituperata at. Eos utroque consequuntur an, case solum his ei.
 		<p>. <a href="#">Contact Us</a></p>		
 			<h3>Our clients say</h3>		
