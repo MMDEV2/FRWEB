@@ -35,7 +35,7 @@ Repairs on most phones iPhones, iPads, Samsung Galaxy smartphones, and most andr
 			<h3>Frequently asked questions</h3>		
 												<a href="">Website </a>
 					<p>Blah, blah, blah</p>
-												<a href="">How much is your app?</a>
+												<a href="">Javascript?</a>
 					Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. At facer theophrastus eum, has nulla bonorum vituperata at. Eos utroque consequuntur an, case solum his ei.
 												<a href="">Can anyone use the app?</a>
 					Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. At facer theophrastus eum, has nulla bonorum vituperata at. Eos utroque consequuntur an, case solum his ei.
