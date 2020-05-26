@@ -40,39 +40,11 @@ post_date: 2018-12-13 22:58:08
 </table>
 </figure>
 <p><!-- /wp:table --><p></p>
+<p></p>
 
 <!-- wp:paragraph -->
 </p>
 <p><!-- /wp:paragraph --><p></p>
-<h3>Choisissez le plan parfait</h3>
-<p>Je suis bloc de texte. Cliquez sur le bouton modifier pour modifier ce texte. Lorem ipsum dolor sit amet, consectetur adipiscing elit. UT Elit Tellus, luctus NEC ullamcorper Mattis, pulvinar dapibus Leo.</p>
-<h2>19 $</h2>
-<h2>Par mois</h2>
-<ul>
-<li>Stockage de 5 Go</li>
-<li>500 utilisateurs</li>
-<li>15 Domaines</li>
-<li>Soutien de 1 an</li>
-</ul>
-<p><a href="#" role="button"><br> Démarrer<br> </a></p>
-<h2>49 $</h2>
-<h2>Par mois</h2>
-<ul>
-<li>Stockage de 10 Go</li>
-<li>Utilisateurs illimités</li>
-<li>20 Domaines</li>
-<li>Soutien à vie</li>
-</ul>
-<p><a href="#" role="button"><br> Démarrer<br> </a></p>
-<h2>99 $ (en)</h2>
-<h2>Par mois</h2>
-<ul>
-<li>Stockage de 100 Go</li>
-<li>Utilisateurs illimités</li>
-<li>50 Domaines</li>
-<li>Soutien à vie</li>
-</ul>
-<p><a href="#" role="button"><br> Démarrer<br> </a></p>
 <h3>Foire aux questions</h3>
 <p><a href="">Qu’est-ce que l’optimisation du flu</a><br>x de travail? Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. Au facer theophrastus eum, a nulla bonorum vituperata à. Eos utroque consequuntur an, cas solum son ei.<br> <a href="">Combien coûte votre appl</a><br>ication ? Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. Au facer theophrastus eum, a nulla bonorum vituperata à. Eos utroque consequuntur an, cas solum son ei.<br> <a href="">Quelqu’un peut-il utiliser </a><br>l’application? Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. Au facer theophrastus eum, a nulla bonorum vituperata à. Eos utroque consequuntur an, cas solum son ei.<br> <a href="">Comment l’idée est-elle venu</a><br>e ? Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. Au facer theophrastus eum, a nulla bonorum vituperata à. Eos utroque consequuntur an, cas solum son ei.<br> <a href="">Embauchez-vous?</a><br> Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. Au facer theophrastus eum, a nulla bonorum vituperata à. Eos utroque consequuntur an, cas solum son ei.</p>
 <p>Workflow Optimization est une application d’optimisation des messages de plate-forme croisée pour tous les appareils. <a href="#">Contactez-nous</a></p>
