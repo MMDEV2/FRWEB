@@ -40,7 +40,6 @@ post_date: 2018-12-13 22:58:08
 </table>
 </figure>
 <p><!-- /wp:table --><p></p>
-<p></p>
 
 <!-- wp:paragraph -->
 </p>
