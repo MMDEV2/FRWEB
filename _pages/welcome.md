@@ -45,19 +45,15 @@ Repairs on most phones iPhones, iPads, Samsung Galaxy smartphones, and most andr
 					Lorem ipsum dolor sit amet, adhuc labores honestatis pro ne. Pri tantas epicuri inciderint te, nibh efficiendi disputationi ex pri. At facer theophrastus eum, has nulla bonorum vituperata at. Eos utroque consequuntur an, case solum his ei.
 		<p>Workflow Optimization is a cross platform message optimization app for all devices. <a href="#">Contact Us</a></p>		
 			<h3>Our clients say</h3>		
-							"Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo"
 							<img width="268" height="275" src="http://www.mikemurphy.fr/wp-content/uploads/2020/05/team_3.jpg" alt="" />						
 														Hilary Leigh
 																						Developer
-							"Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo"
 							<img width="291" height="291" src="http://www.mikemurphy.fr/wp-content/uploads/2020/05/25388788904_72d2f5ec6f_z.jpg" alt="" srcset="http://www.mikemurphy.fr/wp-content/uploads/2020/05/25388788904_72d2f5ec6f_z.jpg 291w, http://www.mikemurphy.fr/wp-content/uploads/2020/05/25388788904_72d2f5ec6f_z-150x150.jpg 150w" sizes="(max-width: 291px) 100vw, 291px" />						
 														Hall Read
 																						Designer
-							"Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo"
 							<img width="268" height="275" src="http://www.mikemurphy.fr/wp-content/uploads/2020/05/team_4.jpg" alt="" />						
 														Quintin Angus
 																						Designer
-							"Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo"
 							<img width="269" height="275" src="http://www.mikemurphy.fr/wp-content/uploads/2020/05/team_2.jpg" alt="" />						
 														Jillie Tempest
 																						Developer
