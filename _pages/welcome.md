@@ -58,7 +58,6 @@ Repairs on most phones iPhones, iPads, Samsung Galaxy smartphones, and most andr
 <!-- /wp:table -->
 
 <p></p>
-<p></p>
 
 <!-- wp:paragraph -->
 </p>
